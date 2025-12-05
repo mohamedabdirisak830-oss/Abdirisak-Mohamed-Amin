@@ -1,0 +1,67 @@
+/* text properties */
+/* 1 Styling */
+/* 2 spacing */
+/* 3 family */
+/* 4 Color */
+/* 5 Sizing */
+
+/* ......styling....... */
+
+
+/* Font Weight */
+/* Text Decoration */
+/* fontstyle */
+/* text transform */
+/* list style */
+
+ /* h1{
+    font-weight: 800;
+    text-decoration: underline blue dashed;
+    font-style: italic;
+    text-transform: uppercase
+
+} 
+
+ul{
+    list-style: circle;
+}  */
+
+/* ......Spacing..... */
+/* text align */
+/* line height */
+/* letter spacing */
+
+ /* h1{
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 20px
+}
+
+p{
+    text-align: justify;
+} */ */
+
+/* ......family.... */
+
+/* h1{
+    font-family: 2 font families selected;
+} */
+
+/* .......color..... */
+/* Named */
+/* rgb */
+/* rgpa */
+/* hexa dicimal */
+ h1{
+    color: khaki;
+    background-color: #333;
+} */
+
+/* .......Text Size........ */
+/* Size Units */
+/* px,em,rem,point,cm,mm,vh,vw,percentage */
+
+h1{
+    font-size: large;
+} 
+
